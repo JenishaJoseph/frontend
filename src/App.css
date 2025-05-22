@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   /* background: linear-gradient(to bottom, #1f1c2c, #928dab); */
-  background-image: url(../public/portfolioBg.png);
+  background-image: url(../public/Img/portfolioBg.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -11,14 +11,14 @@ body {
 }
 
 /* .navbar {
-  /* display: flex;
-  justify-content: space-between; */
-  /* background: rgba(0, 0, 0, 0.7); */
-  /* padding: 0rem 2rem; */
-  /* position: sticky; */
-  /* top: 0;
-  z-index: 1000; */
-/* } */ */
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 0rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+} */
 
 .navbar ul {
   list-style: none;

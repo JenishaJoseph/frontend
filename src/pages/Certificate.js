@@ -5,7 +5,7 @@ const Certificate = () => {
   const certificates = [
     {
       title: "Frontend Internship - Digitally Agile Pulse",
-      file: "/Internship Certificate.pdf",
+      file: "/Pdf/Internship Certificate.pdf",
     },
     {
       title: "MERN Stack Internship - Scope India",
@@ -13,7 +13,7 @@ const Certificate = () => {
     },
     {
       title: "COPA Certification - Govt ITI",
-      file: "/NCVTCTSCertificateAnnual_R220833013961.pdf",
+      file: "/Pdf/NCVTCTSCertificateAnnual_R220833013961.pdf",
     },
   ];
 
