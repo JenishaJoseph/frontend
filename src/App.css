@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   /* background: linear-gradient(to bottom, #1f1c2c, #928dab); */
-  background-image: url(../public/Img/portfolioBg.png);
+  background-image: url(../public/portfolioBg.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

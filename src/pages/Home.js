@@ -4,7 +4,7 @@ import './Page.css';
 const Home = () => (
   <div className="home-flex">
     <div className="left profile-container">
-      <img src="/Img/Profile.jpeg" alt="profile" className="profile-img" />
+      <img src={`${process.env.PUBLIC_URL}/Profile.jpeg`} alt="profile" className="profile-img" />
     </div>
     <div className="right">
       <h1>Jenisha. J</h1>
