@@ -8,7 +8,7 @@ const Projects = () => {
     description:
       'A personal portfolio built with React and CSS. It includes animated routing, profile showcase, and a responsive layout.',
     tech: 'React, CSS',
-    link: 'https://jenishajoseph.github.io/', //portfolio URL hosted
+    link: 'https://jenishajoseph.github.io/frontend/', //portfolio URL hosted
   },
   {
     title: 'Scope India Official Website',

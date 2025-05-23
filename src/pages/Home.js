@@ -11,7 +11,7 @@ const Home = () => (
       <h2>Web Developer</h2>
       <h3>MERN Stack Developer skilled in building full-stack web apps using MongoDB, Express, React, and Node.js.
 Passionate about creating clean, responsive UIs and robust backend APIs.</h3>
-<a href="/Pdf/JENISHA J_Resume.pdf" download className="download-btn" style={{width:'48%'}}>
+<a href={process.env.PUBLIC_URL + "/Pdf/JENISHA_J_Resume.pdf"} download className="download-btn" style={{width:'48%'}}>
   📄 Download My Resume
 </a>
     </div>
